@@ -133,10 +133,10 @@ const Chatbot: React.FC<ChatbotProps> = ({ isOpen, onClose }) => {
     // Contact queries
     if (input.includes('contact') || input.includes('hire') || input.includes('email')) {
       return "You can contact Vikas through:\n\n" +
-        "Email: hello@vikas.dev\n" +
-        "LinkedIn: linkedin.com/in/vikasdev\n" +
-        "Twitter: twitter.com/vikasdev\n" +
-        "GitHub: github.com/vikasdev\n\n" +
+        "Email: talawarh316@gmail.com\n" +
+        "LinkedIn: https://www.linkedin.com/in/vikas-talawar-407a61257/\n" +
+        "Twitter: https://x.com/TalawarVik70120\n" +
+        "GitHub: https://github.com/VT-2004\n\n" +
         "Or use the contact form in the Contact section of the website.";
     }
     
