@@ -73,7 +73,7 @@ const About: React.FC = () => {
           >
             <h3 className="text-2xl font-bold mb-4">Web Developer with a passion for creating beautiful user experiences</h3>
             <p className="text-gray-700 dark:text-gray-300 mb-6">
-              I'm a Web Developer with 5 years of experience specializing in building exceptional digital experiences. My main focus is creating intuitive, responsive, and performant web applications that deliver real value to users.
+              I'm a Web Developer with 2.5 years of experience specializing in building exceptional digital experiences. My main focus is creating intuitive, responsive, and performant web applications that deliver real value to users.
             </p>
             <p className="text-gray-700 dark:text-gray-300 mb-6">
               I have a strong foundation in HTML, CSS, and JavaScript, along with expertise in modern frameworks like React. I'm passionate about clean code, accessibility, and user-centered design principles.
