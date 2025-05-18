@@ -28,12 +28,12 @@ export const projectsData = [
   },
   {
     id: '4',
-    title: 'Social Media Dashboard',
-    description: 'An analytics dashboard for tracking engagement across multiple social media platforms.',
-    image: 'https://images.pexels.com/photos/7063778/pexels-photo-7063778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    title: 'TaskBloom-Task  management app',
+    description: 'A task management app helps users organize, prioritize, and track their to-do items efficiently. It often includes features like due dates, reminders, labels, and collaboration tools. These apps boost productivity by providing a clear overview of pending, ongoing, and completed tasks.',
+    image: 'https://s3-alpha.figma.com/hub/file/5133548925/6dcf8298-fd72-4aba-a023-a5298b36b990-cover.png',
     technologies: ['react', 'typescript', 'graphql', 'tailwind'],
-    demoUrl: 'https://example.com/socialdashboard',
-    githubUrl: 'https://github.com/vikasdev/socialdashboard',
+    demoUrl: 'https://taskbloom-peach.vercel.app/',
+    githubUrl: 'https://github.com/VT-2004/taskbloom',
   },
   {
     id: '5',
