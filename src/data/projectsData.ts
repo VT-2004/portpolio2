@@ -36,14 +36,15 @@ export const projectsData = [
     githubUrl: 'https://github.com/VT-2004/taskbloom',
   },
   {
-    id: '5',
-    title: 'Recipe Finder App',
-    description: 'A recipe discovery application that allows users to search and filter recipes by ingredients and dietary restrictions.',
-    image: 'https://images.pexels.com/photos/4021983/pexels-photo-4021983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    technologies: ['react', 'api', 'javascript', 'styled-components'],
-    demoUrl: 'https://example.com/recipefinder',
-    githubUrl: 'https://github.com/vikasdev/recipefinder',
-  },
+  id: '5',
+  title: 'Mermaid Diagram Visualizer',
+  description: 'A web-based tool for creating and rendering diagrams using Mermaid.js syntax. It supports flowcharts, sequence diagrams, class diagrams, and more, helping developers visualize complex logic and architecture in an intuitive format.',
+  image: 'https://i.ytimg.com/vi/7q65hIaxaZ8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD0gEyh_MA8=&amp;rs=AOn4CLAftFmML2C1fpnitgqo3HnFPzVrqQ',
+  technologies: ['javascript', 'mermaid.js','React','TypeScript','Tailwind Css', 'html', 'css'],
+  demoUrl: 'https://mermaid-clone.vercel.app/',
+  githubUrl: 'https://github.com/VT-2004/Mermaid-cloner',
+}
+
   {
     id: '6',
     title: 'Fitness Tracking App',
