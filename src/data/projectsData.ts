@@ -43,7 +43,7 @@ export const projectsData = [
   technologies: ['javascript', 'mermaid.js','React','TypeScript','Tailwind Css', 'html', 'css'],
   demoUrl: 'https://mermaid-clone.vercel.app/',
   githubUrl: 'https://github.com/VT-2004/Mermaid-cloner',
-}
+  }
 
   {
     id: '6',
