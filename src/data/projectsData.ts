@@ -48,7 +48,7 @@ export const projectsData = [
     id: '6',
     title: 'Mediconnect-App',
     description: 'MediConnect is a comprehensive healthcare application that bridges the gap between patients and doctors. It allows users to register, book real-time appointments, receive automated reminders, and access personalized medical suggestions powered by AI. Doctors can manage their schedules, view patient history, and track appointments efficiently. The app promotes a seamless digital healthcare experience with secure communication and intelligent diagnostics support.',
-    image: 'https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    image: 'https://airdrops.io/wp-content/uploads/2019/04/MediConnect-featured.jpg',
     technologies: ['react', 'typescript', 'firebase', 'tailwind'],
     demoUrl: 'https://medi-connect-seven-gamma.vercel.app/',
     githubUrl: 'https://github.com/VT-2004/MediConnect',
