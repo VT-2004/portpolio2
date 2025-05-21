@@ -36,15 +36,14 @@ export const projectsData = [
     githubUrl: 'https://github.com/VT-2004/taskbloom',
   },
   {
-  id: '5',
-  title: 'Mermaid Diagram Visualizer',
-  description: 'A web-based tool for creating and rendering diagrams using Mermaid.js syntax. It supports flowcharts, sequence diagrams, class diagrams, and more, helping developers visualize complex logic and architecture in an intuitive format.',
-  image: 'https://i.ytimg.com/vi/7q65hIaxaZ8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD0gEyh_MA8=&amp;rs=AOn4CLAftFmML2C1fpnitgqo3HnFPzVrqQ',
-  technologies: ['javascript', 'mermaid.js','React','TypeScript','Tailwind Css', 'html', 'css'],
-  demoUrl: 'https://mermaid-clone.vercel.app/',
-  githubUrl: 'https://github.com/VT-2004/Mermaid-cloner',
-  }
-
+    id: '5',
+    title: 'Mermaid Clone',
+    description: 'A web-based tool for creating and rendering diagrams using Mermaid.js syntax. It supports flowcharts, sequence diagrams, class diagrams, and more, helping developers visualize complex logic and architecture in an intuitive format.',
+    image: 'https://r2.erweima.ai/i/ZKQCzVxCTVCZmZ4sOhLK4A.png',
+    technologies:  ['javascript', 'mermaid.js','react','typeScript','tailwind Css', 'html', 'css'],
+    demoUrl: 'https://mermaid-clone.vercel.app/',
+    githubUrl: 'https://github.com/VT-2004/Mermaid-cloner',
+  },
   {
     id: '6',
     title: 'Fitness Tracking App',
