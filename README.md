@@ -15,7 +15,7 @@ Just a good Portfolio to show up my skills.
 ## 📸 Screenshots
 
 <!-- Add screenshots or demo GIFs here -->
-![App Screenshot](https://ibb.co/mCZJ76nb)
+https://ibb.co/mCZJ76nb
 
 ## 🧰 Installation
 
